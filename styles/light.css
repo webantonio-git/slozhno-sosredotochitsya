@@ -10,6 +10,7 @@
   --background-image: url(../images/cover-image-light.png);
   --background-color: #fff1f7;
   --header-decor: #353430;
+  --header-decor-hover: rgb(53 52 48 / 0.5);
   --title-text-color: #FFC2E6;
   --accent-color: #FF8DCB;
   --description-text-color: #353430;
@@ -30,6 +31,7 @@
     --background-image: url(../images/cover-image-light.png);
     --background-color: #000028;
     --header-decor: #353430;
+    --header-decor-hover: rgb(53 52 48 / 0.5);
     --title-text-color: #FFC2E6;
     --accent-color: #FF8DCB;
     --description-text-color: #353430;

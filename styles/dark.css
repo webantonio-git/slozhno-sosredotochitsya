@@ -9,6 +9,7 @@
   --background-image: url(../images/cover-image-dark.png);
   --background-color: #000028;
   --header-decor: #FF0070;
+  --header-decor-hover: rgb(255 0 112 / 0.5);
   --title-text-color: #DB00FF;
   --accent-color: #FF0070;
   --description-text-color: #000028;
@@ -16,7 +17,7 @@
   --article_paragraph-color: #000028;
   --article-text-color: #F1B2CE;
   --link-shadow-color: #ff0070;
-  --display-rec: block;
+  --display-rec: inline-block;
   /* сохраните этот селектор в приведённом виде.
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя

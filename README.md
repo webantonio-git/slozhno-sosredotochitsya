@@ -1,1 +1,1 @@
-https://github.com/webantonio-git/slozhno-sosredotochitsya-fd/
+https://github.com/webantonio-git/slozhno-sosredotochitsya-fd
